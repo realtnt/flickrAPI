@@ -1,0 +1,167 @@
+{
+    "photo": {
+        "id": "54028153523",
+        "secret": "bfcf8d95dd",
+        "server": "65535",
+        "farm": 66,
+        "dateuploaded": "1727550334",
+        "isfavorite": 0,
+        "license": "0",
+        "safety_level": "0",
+        "rotation": 0,
+        "owner": {
+            "nsid": "10112197@N02",
+            "username": "jaciii (off&on)",
+            "realname": "",
+            "location": null,
+            "iconserver": "1060",
+            "iconfarm": 2,
+            "path_alias": "jaciii",
+            "gift": {
+                "gift_eligible": true,
+                "eligible_durations": [
+                    "year",
+                    "month",
+                    "week"
+                ],
+                "new_flow": true
+            }
+        },
+        "title": {
+            "_content": "Lorenzo or Lawrence Ruiz_Explore_DSC07437"
+        },
+        "description": {
+            "_content": "patron saint of migrants, migrant workers, immigrants, the poor, separated families, Filipino youth, Filipino Catholics, Filipinos, Chinese-Filipinos, Tagalogs, missionaries, altar servers, secretaries, calligraphers, Archdiocese of Manila and: \n\n1.    Filipino migrants and overseas workers: Lorenzo Ruiz\u2019s own journey as a missionary and martyr resonates with the struggles and challenges faced by modern Filipino migrants seeking a better life abroad.\n\n2.    Martyrs: St. Lorenzo Ruiz\u2019s willingness to sacrifice his life for his faith has made him a symbol of courage and devotion for all those who have endured persecution and hardship due to their beliefs.\n\n3.    The Philippines: As a figure deeply rooted in the country\u2019s history, Lorenzo Ruiz serves as a reminder of the enduring Filipino spirit and resilience.\n"
+        },
+        "visibility": {
+            "ispublic": 1,
+            "isfriend": 0,
+            "isfamily": 0
+        },
+        "dates": {
+            "posted": "1727550334",
+            "taken": "2024-09-13 09:33:57",
+            "takengranularity": 0,
+            "takenunknown": "0",
+            "lastupdate": "1727822076"
+        },
+        "views": "34776",
+        "editability": {
+            "cancomment": 0,
+            "canaddmeta": 0
+        },
+        "publiceditability": {
+            "cancomment": 1,
+            "canaddmeta": 1
+        },
+        "usage": {
+            "candownload": 0,
+            "canblog": 0,
+            "canprint": 0,
+            "canshare": 0
+        },
+        "comments": {
+            "_content": "53"
+        },
+        "notes": {
+            "note": []
+        },
+        "people": {
+            "haspeople": 0
+        },
+        "tags": {
+            "tag": [
+                {
+                    "id": "10091849-54028153523-4246460",
+                    "author": "10112197@N02",
+                    "authorname": "jaciii (off&on)",
+                    "raw": "Duranta Erecta",
+                    "_content": "durantaerecta",
+                    "machine_tag": 0
+                },
+                {
+                    "id": "10091849-54028153523-94971388",
+                    "author": "10112197@N02",
+                    "authorname": "jaciii (off&on)",
+                    "raw": "Duranta Sapphire",
+                    "_content": "durantasapphire",
+                    "machine_tag": 0
+                },
+                {
+                    "id": "10091849-54028153523-1424254",
+                    "author": "10112197@N02",
+                    "authorname": "jaciii (off&on)",
+                    "raw": "ornamental plant",
+                    "_content": "ornamentalplant",
+                    "machine_tag": 0
+                },
+                {
+                    "id": "10091849-54028153523-548558606",
+                    "author": "10112197@N02",
+                    "authorname": "jaciii (off&on)",
+                    "raw": "Schrub Duranta repens",
+                    "_content": "schrubdurantarepens",
+                    "machine_tag": 0
+                },
+                {
+                    "id": "10091849-54028153523-38177705",
+                    "author": "10112197@N02",
+                    "authorname": "jaciii (off&on)",
+                    "raw": "City of McAllen",
+                    "_content": "cityofmcallen",
+                    "machine_tag": 0
+                },
+                {
+                    "id": "10091849-54028153523-961298",
+                    "author": "10112197@N02",
+                    "authorname": "jaciii (off&on)",
+                    "raw": "Duranta",
+                    "_content": "duranta",
+                    "machine_tag": 0
+                },
+                {
+                    "id": "10091849-54028153523-3118088",
+                    "author": "10112197@N02",
+                    "authorname": "jaciii (off&on)",
+                    "raw": "Guava skipper",
+                    "_content": "guavaskipper",
+                    "machine_tag": 0
+                },
+                {
+                    "id": "10091849-54028153523-3172523",
+                    "author": "10112197@N02",
+                    "authorname": "jaciii (off&on)",
+                    "raw": "Hidalgo County",
+                    "_content": "hidalgocounty",
+                    "machine_tag": 0
+                },
+                {
+                    "id": "10091849-54028153523-46759",
+                    "author": "10112197@N02",
+                    "authorname": "jaciii (off&on)",
+                    "raw": "my backyard",
+                    "_content": "mybackyard",
+                    "machine_tag": 0
+                },
+                {
+                    "id": "10091849-54028153523-2961764",
+                    "author": "10112197@N02",
+                    "authorname": "jaciii (off&on)",
+                    "raw": "Texas USA",
+                    "_content": "texasusa",
+                    "machine_tag": 0
+                }
+            ]
+        },
+        "urls": {
+            "url": [
+                {
+                    "type": "photopage",
+                    "_content": "https:\/\/www.flickr.com\/photos\/jaciii\/54028153523\/"
+                }
+            ]
+        },
+        "media": "photo"
+    },
+    "stat": "ok"
+}
